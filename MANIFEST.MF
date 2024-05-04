@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (daniel)
+Class-Path: lib/ojdbc6.jar lib/poi-3.17.jar lib/poi-ooxml-3.17.jar lib/poi-ooxml-schemas-3.17.jar lib/xmlbeans-2.6.0.jar lib/stax-api-1.0.1.jar lib/nio.jar 
+Main-Class: Test.interfaz
